@@ -1,0 +1,15 @@
+Tag=0
+Height=400
+Width=600
+Top=516
+Left=729
+FormState=1
+Caption=MainForm
+SubForm=form
+	Tag=0
+	Height=400
+	Width=600
+	Top=462
+	Left=374
+	FormState=1
+	Caption=SubForm

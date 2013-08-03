@@ -1,0 +1,1 @@
+dmd -debug -w -wi -lib "..\LLClasses.d" -od"..\Lib\Debug"

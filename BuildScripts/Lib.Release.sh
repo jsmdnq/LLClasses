@@ -1,0 +1,1 @@
+dmd -O -release -inline -lib "../LLClasses.d" -od"../Lib/Release"
